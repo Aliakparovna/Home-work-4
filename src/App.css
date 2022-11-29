@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+.btn{
+  width: 180px;
+  height: 40px;
+  background-color: darkgreen;
+  border-radius: 7px;
+  text-align: center;
+  color: beige;
+
+}
